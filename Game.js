@@ -77,12 +77,12 @@ class Game {
 
         //textSize(15);
         //text(allPlayers[plr].name + ": " + allPlayers[plr].distance, 120,display_position)
+        
+        }
         if(distance===260){
           textSize(22);
           text("What is the sum of first two prime numbers?",200,50);
     
-        }
-
     }
   }
     
